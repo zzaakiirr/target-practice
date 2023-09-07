@@ -2,9 +2,9 @@
 Simple game created with DragonRuby Game Toolkit
 
 # Screenshots
-![Title scene](https://i.postimg.cc/hX786447/title-scene.png)
-![Gameplay scene](https://i.postimg.cc/8FQdS8sX/gameplay-scene.png)
-![Game over scene](https://i.postimg.cc/YhPfdL7H/game-over-scene.png)
+[![title-scene.png](https://i.postimg.cc/Qdf6BVRS/title-scene.png)](https://postimg.cc/hX786447)
+[![gameplay-scene.png](https://i.postimg.cc/tg7BFpbb/gameplay-scene.png)](https://postimg.cc/8FQdS8sX)
+[![game-over-scene.png](https://i.postimg.cc/6pWj5C1y/game-over-scene.png)](https://postimg.cc/YhPfdL7H)
 
 # Where to play
 https://zzaakiirr.itch.io/target-practice
